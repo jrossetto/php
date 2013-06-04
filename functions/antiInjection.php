@@ -19,3 +19,4 @@ function anti_injection($string){
 
   return $string;
 }
+?>
